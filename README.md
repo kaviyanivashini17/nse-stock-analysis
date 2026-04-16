@@ -169,11 +169,7 @@ open index.html
 ---
 
 ## 👤 Author
-
-**Your Name**
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com)
-- GitHub: [github.com/your-username](https://github.com)
-
+Kaviya Nivashini V
 ---
 
 *⭐ If this project helped you, please star it!*
