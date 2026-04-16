@@ -30,10 +30,13 @@ nse-stock-analysis/
 │   └── NSE_Stock_Analysis_Report.xlsx  ← 4-sheet Excel report
 │
 ├── 📋 PowerBI/
-│   └── GUIDE.md                 ← Step-by-step Power BI build guide
-│                                   (DAX formulas, visuals, layout)
+│   └── GUIDE.md                  ← Step-by-step Power BI build guide(DAX formulas, visuals, layout)
+|   └── nse_stock_dashboard.pbix
+|   └──screenshots/
+|      ├── dashboard_page1.png         
+│      └── dashboard_page2.png                       
 │
-├── 🌐 index.html                ← Live interactive dashboard
+├── 🌐 index.html                 ← Live interactive dashboard
 │
 └── 📄 README.md
 ```
