@@ -6,7 +6,7 @@
 
 ## 🚀 Live Dashboard
 
-**[▶ View Live Dashboard](https://your-username.github.io/nse-stock-analysis/)**
+**[▶ View Live Dashboard](https://kaviyanivashini17.github.io/nse-stock-analysis/)**
 
 ![Dashboard Preview](https://img.shields.io/badge/Dashboard-Live-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
