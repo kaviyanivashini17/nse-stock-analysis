@@ -94,35 +94,6 @@ nse-stock-analysis/
 
 ---
 
-## 🚀 Getting Started
-
-### Run the EDA Script
-```bash
-git clone https://github.com/your-username/nse-stock-analysis
-cd nse-stock-analysis
-pip install pandas numpy openpyxl
-python eda.py
-```
-
-### View the Dashboard
-```bash
-# Simply open in browser:
-open index.html
-# or double-click index.html
-```
-
-### Deploy to GitHub Pages
-1. Go to repo Settings → Pages
-2. Source: Deploy from branch `main`, folder `/` (root)
-3. Your dashboard is live at `https://your-username.github.io/nse-stock-analysis/`
-
-### Use with Power BI
-1. Open Power BI Desktop
-2. Get Data → CSV → `data/nse_cleaned.csv`
-3. Follow `PowerBI/GUIDE.md` for full instructions
-
----
-
 ## 📈 Key Findings
 
 | Stock | 3Y Return | Signal |
