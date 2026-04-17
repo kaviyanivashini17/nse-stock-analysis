@@ -2,8 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════╗
 ║     NSE NIFTY 50 — Indian Stock Market Analysis                     ║
 ║     Exploratory Data Analysis & Data Cleaning Script                ║
-║     Dataset: Top 15 Nifty Stocks | Jan 2023 – Mar 2026             ║
-║     Author: Data Analytics Portfolio Project                         ║
+║     Dataset: Top 15 Nifty Stocks | Jan 2023 – Mar 2026              ║                        ║
 ╚══════════════════════════════════════════════════════════════════════╝
 """
 
